@@ -1,7 +1,7 @@
-# .github# Imposters-KRMU
+# Imposters-KRMU
 
 ![Imposters-KRMU Logo](https://github.com/Imposters-KRMU/.github/blob/main/assets/logo_imposters-krmu.png?raw=true#gh-dark-mode-only)
-![Imposters-KRMU Logo](https://github.com/Imposters-KRMU/.github/blob/main/assets/logo_dark_imposters-krmu.png?raw=true)
+![Imposters-KRMU Logo](https://github.com/Imposters-KRMU/.github/blob/main/assets/logo_dark_imposters-krmu.png?raw=true#gh-light-mode-only)
 
 Imposters-KRMU is a group of enthusiastic B.Tech Computer Science students from K.R. Mangalam University. This organization serves as a platform for the four of us to collaborate, share resources, and archive the hackathon projects and other technical projects we have participated in or made. We are dedicated to learning, innovation, and leveraging our skills to create meaningful projects.
 
